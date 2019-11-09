@@ -2,8 +2,9 @@
 output: pdf_document
 ---
 
-Brett Johnson
+\includegraphics[width=2in]{Profile Shot.jpg}
 
+Brett Johnson
 ================
 
 Quadra Island Ecological Observatory\
