@@ -4,10 +4,6 @@ output: pdf_document
 
 Brett Johnson
 
-\begin{right} <br>
-\includegraphics[width=3in]{BJ_AM.jpg} <br>
-\end{center}
-
 ================
 
 Quadra Island Ecological Observatory\
