@@ -2,7 +2,7 @@
 output: pdf_document
 ---
 
-\includegraphics[width=2in]{Profile Shot.jpg}
+\includegraphics[width=2.29in]{Brett-Johnson.jpg}
 
 Brett Johnson
 ================
@@ -118,7 +118,7 @@ Conference presentations
 ==========================================
 
 2019
-:    __Johnson, B.T.__, J.C.L. Gan, C.V. Janusson, B.P.V. Hunt. *Hakai Institute Juvenile Salmon Program Time Series Poster*. Poster presentation at the Salmon Ocean Ecology / North Pacific Anadramous Fisheries Commission Meeting, Portland Oregon.
+:    __Johnson, B.T.__, J.C.L. Gan, C.V. Janusson, B.P.V. Hunt. *Hakai Institute Juvenile Salmon Program Time Series Poster*. Poster presentation at the Salmon Ocean Ecology / North Pacific Anadromous Fisheries Commission Meeting, Portland Oregon.
 
 2019
 :    __Johnson, B.T.__, J.C.L. Gan, C.V. Janusson, B.P.V. Hunt. *Hakai Institute Juvenile Salmon Program 2015--2018 Time Series Poster*. Poster presentation at Fisheries and Oceans Canada State of the Pacific Ocean meeting. Nanaimo, BC, Canada.
@@ -152,16 +152,19 @@ Working groups and workshops
 ============================
 
 2019
-:    Metadata Task Team. Canadian Integrated Ocean Observing System. Collaboration with Fisheries and Oceans Canada, Ocean Networks Canada, Hakai Institute.   
+    International Year of the Salmon High Seas Cruise Data Management and Communications Team. Collaboration with Noth Pacific Anadromous Fish Commission, International Year of the Salmon, Hakai Institute, University of British Columbia, and Ocean Networks Canada.
 
 2019
-:    Production methodlogies and measurements for in situ zooplankton. PICES workshop. Oct 12-13, Hakai Institute, Quadra Island, BC.
+:   Metadata Profile Task Team. Canadian Integrated Ocean Observing System. Collaboration with Fisheries and Oceans Canada, Ocean Networks Canada, and Hakai Institute.   
+
+2019
+:    Production methodologies and measurements for in situ zooplankton workshop. PICES workshop. Oct 12-13, Hakai Institute, Quadra Island, BC.
 
 2019
 :    International Ocean Observation Systems Code Sprint. Oct 8-10, Ann Arbour, MI, USA.
 
 2016--2018
-:    Pacific Salmon Foundation Salish Sea Marine Survival Project *Juvenile salmon work group*
+:    Pacific Salmon Foundation Salish Sea Marine Survival Project Juvenile salmon work group.
 
 2017--2019
 :    Salmon Migrations and Climate Change Annual Workshop. Pacific Salmon Ecology and Conservation Lab. Dr. Scott Hinch. 
@@ -176,7 +179,7 @@ Certifications
     Occupational First Aid Level 1. St. John's Amubulance. February 18. Campbell River, BC.
     
 2010
-:    Swift Water Rescue Technician. Rescue Canada Occupational River Safty Technician Level II. Aug 5. Chilliwack, BC.
+:    Swift Water Rescue Technician. Rescue Canada Occupational River Safety Technician Level II. Aug 5. Chilliwack, BC.
 
 2010
 :    Electrofishing Crew Supervisor. Ministry of Environment. North Vancouver, BC.
