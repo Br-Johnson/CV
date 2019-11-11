@@ -30,10 +30,10 @@ Professional experience
     Cutthroat Trout Estuarine Ecology, University of Northern British Columbia, Prince George, BC, Canada
 
 2008--2013
-:    __Fish, Wildlife, and Forestry Technician__\
+:    __Fish, Wildlife, and Forestry Field Technician__\
     Lower Seymour Conservation Reserve, Watershed Management Division, Metro Vancouver, North Vancouver, BC, Canada
 
-2004--2008
+2005--2008
 :    __Engineer__\
     39 Combat Engineer Regiment, Canadian Armed Forces, Department of National Defence, Chilliwack, BC, Canada
 
@@ -66,7 +66,7 @@ Publications
 ## Technical reports
 
 2019
-:   Irvine, J.R., S. Akenhead, T. Beacham, C.M. Deeg, S.C.H. Grant, K.D. Hyatt, C. Holt, B.V.P. Hunt, __B.T. Johnson__, J. King, K.M. Miller, and C. Neville.  2019.  *Update on Canadian research relevant to the 2016–2020 NPAFC Science Plan.*  NPAFC Doc. 1841.  6 pp.  Fisheries and Oceans Canada, University of British Columbia, and Hakai Institute  (Available at https://npafc.org).\
+:   Irvine, J.R., S. Akenhead, T. Beacham, C.M. Deeg, S.C.H. Grant, K.D. Hyatt, C. Holt, B.V.P. Hunt, __B.T. Johnson__, J. King, K.M. Miller, and C. Neville.  2019.  *Update on Canadian research relevant to the 2016–2020 NPAFC Science Plan.*  NPAFC Doc. 1841.  6 pp.  Fisheries and Oceans Canada, University of British Columbia, and Hakai Institute  (Available at https://npafc.org).
 
 2019
 :    __Johnson, B.T.__, J.C.L. Gan, S.C. Godwin, M. Krkosek, and B.P.V Hunt. 2019. *Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018.* NPAFC Doc. 1838. 21 pp. Hakai Institute, Institute for the Oceans and Fisheries and Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Earth to Ocean Research Group, Simon Fraser University, Department of Ecology and Evolutionary Biology, University of Toronto, and Salmon Coast Field Station (Available at https://npafc.org).\
@@ -189,4 +189,4 @@ Certifications
 
 Skills
 ========
-Salmon Ecology, Oceanography, Data Science, Research, Field Operations, DevOps, Project Management, Agile, Data Analysis, Data Management, Research Software Engineering
+Salmon Ecology, Oceanography, Data Science, Research, Field Operations, DevOps, Open Science, Project Management, Agile, Data Analysis, Data Management, Research Software Engineering
