@@ -1,8 +1,11 @@
 ---
-output: pdf_document
+output: 
+    pdf_document:
+        latex_engine: xelatex
+fontsize: 12pt
+mainfont: Arial
 ---
 
-\includegraphics[width=2.29in]{Brett-Johnson.jpg}
 
 Brett Johnson
 ================
@@ -69,13 +72,13 @@ Publications
 :   Irvine, J.R., S. Akenhead, T. Beacham, C.M. Deeg, S.C.H. Grant, K.D. Hyatt, C. Holt, B.V.P. Hunt, __B.T. Johnson__, J. King, K.M. Miller, and C. Neville.  2019.  *Update on Canadian research relevant to the 2016–2020 NPAFC Science Plan.*  NPAFC Doc. 1841.  6 pp.  Fisheries and Oceans Canada, University of British Columbia, and Hakai Institute  (Available at https://npafc.org).
 
 2019
-:    __Johnson, B.T.__, J.C.L. Gan, S.C. Godwin, M. Krkosek, and B.P.V Hunt. 2019. *Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018.* NPAFC Doc. 1838. 21 pp. Hakai Institute, Institute for the Oceans and Fisheries and Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Earth to Ocean Research Group, Simon Fraser University, Department of Ecology and Evolutionary Biology, University of Toronto, and Salmon Coast Field Station (Available at https://npafc.org).\
+:    __Johnson, B.T.__, J.C.L. Gan, S.C. Godwin, M. Krkosek, and B.P.V Hunt. 2019. *Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018.* NPAFC Doc. 1838. 21 pp. Hakai Institute, Institute for the Oceans and Fisheries and Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Earth to Ocean Research Group, Simon Fraser University, Department of Ecology and Evolutionary Biology, University of Toronto, and Salmon Coast Field Station (Available at https://npafc.org).
 
 2018
-:    Hunt, B.P.V., __B.T. Johnson__, S.C. Godwin, M. Krkosek, E.A. Pakhomov, and L. Rogers. 2018. *The Hakai Institute Juvenile Salmon Program: early life history of sockeye, pink and chum salmon in British Columbia, Canada.* NPAFC Doc. 1788. 14 pp. Institute for the Oceans and Fisheries and Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Hakai Institute, Earth to Ocean Research Group, Simon Fraser University, Department of Ecology and Evolutionary Biology, University of Toronto, and Salmon Coast Field Station (Available at http://www.npafc.org).\
+:    Hunt, B.P.V., __B.T. Johnson__, S.C. Godwin, M. Krkosek, E.A. Pakhomov, and L. Rogers. 2018. *The Hakai Institute Juvenile Salmon Program: early life history of sockeye, pink and chum salmon in British Columbia, Canada.* NPAFC Doc. 1788. 14 pp. Institute for the Oceans and Fisheries and Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Hakai Institute, Earth to Ocean Research Group, Simon Fraser University, Department of Ecology and Evolutionary Biology, University of Toronto, and Salmon Coast Field Station (Available at http://www.npafc.org).
 
 2018
-:    __Johnson, B.T.__, J.C.L. Gan, C.V. Janusson, and B.P.V. Hunt. 2018. *Juvenile salmon migration dynamics in the Discovery Islands and Johnstone Strait; 2015–2017.* NPAFC Doc. 1790. 10 pp. Hakai Institute, Institute for the Oceans and Fisheries and Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia (Available at http://www.npafc.org)\
+:    __Johnson, B.T.__, J.C.L. Gan, C.V. Janusson, and B.P.V. Hunt. 2018. *Juvenile salmon migration dynamics in the Discovery Islands and Johnstone Strait; 2015–2017.* NPAFC Doc. 1790. 10 pp. Hakai Institute, Institute for the Oceans and Fisheries and Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia (Available at http://www.npafc.org)
 
 ## Software
 
@@ -152,7 +155,7 @@ Working groups and workshops
 ============================
 
 2019
-    International Year of the Salmon High Seas Cruise Data Management and Communications Team. Collaboration with Noth Pacific Anadromous Fish Commission, International Year of the Salmon, Hakai Institute, University of British Columbia, Fisheries and Oceans Canada, and Ocean Networks Canada.
+:    International Year of the Salmon High Seas Cruise Data Management and Communications Team. Collaboration with Noth Pacific Anadromous Fish Commission, International Year of the Salmon, Hakai Institute, University of British Columbia, Fisheries and Oceans Canada, and Ocean Networks Canada.
 
 2019
 :   Metadata Profile Task Team. Canadian Integrated Ocean Observing System. Collaboration with Fisheries and Oceans Canada, Ocean Networks Canada, and Hakai Institute.   
@@ -176,7 +179,7 @@ Certifications
 :    Data Carpentry Instructor. [Course](https://computecanada.github.io/2018-10-18-ttt-SFU/) taught by John Simpson. Oct 18-19. Simon Fraser University.
 
 2017
-    Occupational First Aid Level 1. St. John's Amubulance. February 18. Campbell River, BC.
+:    Occupational First Aid Level 1. St. John's Amubulance. February 18. Campbell River, BC.
     
 2010
 :    Swift Water Rescue Technician. Rescue Canada Occupational River Safety Technician Level II. Aug 5. Chilliwack, BC.
@@ -185,7 +188,7 @@ Certifications
 :    Electrofishing Crew Supervisor. Ministry of Environment. North Vancouver, BC.
 
 2010
-    Chainsaw Technician. Safety Fundamentals. Arboriculture Canada. April 19. North Vancouver, BC.
+:    Chainsaw Technician. Safety Fundamentals. Arboriculture Canada. April 19. North Vancouver, BC.
 
 Skills
 ========
