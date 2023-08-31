@@ -1,5 +1,5 @@
 Brett Johnson
-----------------
+-------------
 
 34-5960 Cowichan Street
 Chilliwack, British Columbia, Canada
@@ -7,7 +7,7 @@ V2R 0L6
 BrettThomasJohnson@gmail.com
  
 Education
-------------
+---------
 
 2013-2015
 Bachelor of Science. Natural Resource Management - Wildlife and Fisheries
@@ -25,7 +25,7 @@ Certificate of Technology in Natural Resources
     Burnaby, BC, Canada.
     
 Professional Experience
-----------------------------
+-----------------------
 
 2018-Present 
 Biologist and Scientific Data Specialist. Hakai Institute/Tula Foundation, Heriot Bay, BC, Canada.
@@ -39,8 +39,16 @@ Research Assistant. University of Northern British Columbia, Prince George, BC, 
 2008-2013
 Fish, Wildlife, and Forestry Field Technician. Lower Seymour Conservation Reserve, Watershed Management Division. Metro Vancouver, North Vancouver, BC, Canada.
 
+Professional Development
+------------------------
+
+2023
+Professional Certificate in Business Intelligence.
+    Google,
+    https://www.coursera.org/professional-certificates/google-business-intelligence 
+
 Publications
---------------
+------------
 
 Peer-reviewed literature
 
@@ -96,7 +104,7 @@ Johnson, B.T. Juvenile Salmon Program Data Explorer. https://hecate.hakai.org/sh
 Johnson, B.T. `hakaisalmon:` Hakai Institute Juvenile Salmon Program functions, templates, and helpers. R package. https://hakaiinstitute.github.io/hakaiR/. Quadra Island, BC, Canada.
 
 Books
--------
+-----
 
 2020
 Johnson, B.T., M. Biddle, B. Best, A. Benson, Z. Montieth. 2020. Standardizing Marine Biological Data. https://ioos.github.io/bio_data_guide/intro.html. Quadra Island, BC, Canada.
@@ -105,7 +113,7 @@ Johnson, B.T., M. Biddle, B. Best, A. Benson, Z. Montieth. 2020. Standardizing M
 Johnson, B.T. 2017. Hakai Institute R Stats Guide for Reproducible Analyses. https://hecate.hakai.org/rguide/. Quadra Island, BC, Canada.
 
 Conference presentations
------------------------------
+------------------------
 
 2022
 Johnson, B.T., T. van der Stap. 2022. International Year of the Salmon Data Mobilization. Oral presentation at the International Year of the Salmon 2022 Expedition Results Meeting. Vancouver, BC. October 2-3, 2022. https://doi.org/10.5281/zenodo.7613258.
@@ -142,9 +150,8 @@ Johnson, B.T. 2016. Hakai Institute Juvenile Salmon Program highlights 2015-2016
 
 Hunt, B.P.V., B.T. Johnson. Juvenile Salmon Program review; ocean conditions and fish condition analysis. Pacific Salmon Foundation Salish Sea Marine Survival Project Canadian meeting. Nanaimo, BC, Canada.
 
-
-Working Groups and Committees
---------------------------------------
+Working groups and committees
+-----------------------------
 
 2022-Current
 PICES Study Group: encouraging Data Awareness and increased Transmission and Accessibility (SG-DATA). North Pacific Marine Science Organization (PICES).
