@@ -26,21 +26,29 @@ Professional Experience
 -----------------------
 
 2018-Present 
-Scientific Data Specialist. Hakai Institute/Tula Foundation, Victoria, BC, Canada.
+Scientific Data Specialist. 
+    Hakai Institute/Tula Foundation, 
+    Victoria, BC, Canada.
 
 2015-2018
-Juvenile Salmon Program Biologist. Hakai Institute/Tula Foundation, Heriot Bay, BC, Canada.
+Juvenile Salmon Program Biologist. 
+    Hakai Institute/Tula Foundation, 
+    Heriot Bay, BC, Canada.
 
 2014-2015
-Research Assistant. University of Northern British Columbia, Prince George, BC, Canada. 
+Research Assistant. 
+    University of Northern British Columbia,
+    Prince George, BC, Canada. 
   
 2008-2013
-Fish, Wildlife, and Forestry Field Technician. Lower Seymour Conservation Reserve, Watershed Management Division. Metro Vancouver, North Vancouver, BC, Canada.
+Fish, Wildlife, and Forestry Field Technician. 
+    Watershed Management Division, Metro Vancouver,
+    North Vancouver, BC, Canada.
     
 Publications
 ------------
 
-Peer-reviewed literature
+Peer-reviewed Literature
 
 2023
 
@@ -60,7 +68,7 @@ Peer-reviewed literature
 
   Brookson, C. B., M. Krkošek, B. P. V. Hunt, B.T. Johnson, L. A. Rogers, and S. C. Godwin. 2020. Differential infestation of juvenile pacific salmon by parasitic sea lice in British Columbia, Canada. Canadian Journal of Fisheries and Aquatic Sciences 77(12):1960–1968.   
 
-Technical reports
+Technical Reports
 
 2022
   Johnson, B.T., K. Bachen, T. van der Stap, B.P.V. Hunt. 2022. Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2021. NPAFC Doc. 2038. 15pp. https://doi.org/10.5281/zenodo.6485627.
@@ -82,7 +90,7 @@ Technical reports
   Johnson, B.T., J.C.L. Gan, C.V. Janusson, and B.P.V. Hunt. 2018. Juvenile salmon migration dynamics in the Discovery Islands and Johnstone Strait; 2015–2017. NPAFC Doc. 1790. 10 pp. Hakai Institute, Institute for the Oceans and Fisheries and Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia (Available at http://www.npafc.org).
 
 Software
-----------
+--------
 
 2021
   Denouden, T., B.T. Johnson. 2021. Hakai Institute API R Client. https://github.com/HakaiInstitute/hakai-api-client-r. Hakai Institute. Quadra Island, BC, Canada.
@@ -102,7 +110,7 @@ Books
 2017
   Johnson, B.T. 2017. Hakai Institute R Stats Guide for Reproducible Analyses. https://hecate.hakai.org/rguide/. Quadra Island, BC, Canada.
 
-Conference presentations
+Conference Presentations
 ------------------------
 
 2022
@@ -140,7 +148,7 @@ Conference presentations
 
   Hunt, B.P.V., B.T. Johnson. Juvenile Salmon Program review; ocean conditions and fish condition analysis. Pacific Salmon Foundation Salish Sea Marine Survival Project Canadian meeting. Nanaimo, BC, Canada.
 
-Working groups and committees
+Working Groups and Committees
 -----------------------------
 
 2022-Current
@@ -192,6 +200,7 @@ Certified Data Carpentries Workshop Instructor
     
 April, 2016
     Small Vessel Operators Permit (SVOP). Quicknav Marine Training School. 
+    North Vancouver, BC
 
 Professional Memberships
 ------------------------
