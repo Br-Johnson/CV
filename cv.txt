@@ -13,7 +13,7 @@ Bachelor of Science. Natural Resource Management - Wildlife and Fisheries
     Prince George, BC, Canada.
 
 2011-2013
-Diploma of Technology in Renewable Resources - Fish, Wildlife and Recreation
+Diploma of Technology in Renewable Resources
     British Columbia Institute of Technology,
     Burnaby, BC, Canada.
 
@@ -26,7 +26,7 @@ Professional Experience
 -----------------------
 
 2018-Present 
-Biologist and Scientific Data Specialist. Hakai Institute/Tula Foundation, Heriot Bay, BC, Canada.
+Scientific Data Specialist. Hakai Institute/Tula Foundation, Victoria, BC, Canada.
 
 2015-2018
 Juvenile Salmon Program Biologist. Hakai Institute/Tula Foundation, Heriot Bay, BC, Canada.
@@ -44,11 +44,11 @@ Peer-reviewed literature
 
 2023
 
-  Johnson, B.T., T. van der Stap. 2023. Data Mobilization Through the International Year of the Salmon Ocean Observing System. North Pacific Anadromous Fish Commission. Accepted subject to minor revisions. Pre-print available at https://doi.org/10.31219/osf.io/83x9a. 
+  Johnson, B.T., T. van der Stap. 2023. Data Mobilization Through the International Year of the Salmon Ocean Observing System. North Pacific Anadromous Fish Commission Bulletin. Accepted. Pre-print available at https://doi.org/10.31219/osf.io/83x9a 
 
-  James, S., E. Pakhomov, B. Johnson, B.P.V. Hunt. 2023. Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada. Marine Ecology Press Series. Accepted subject to minor revisions.
-
-  Diack, D., T. Bird, A. Knight, E. de Eyto, J. Bayer, A. Walker, B.T. Johnson, T. van der Stap, M. Nevoux, C. Bull, N. Hanson, D. Brophy, M. Jones, S. Akenhead. Salmon Data Mobilization. 2023. North Pacific Anadromous Fish Commission Bulletin. Accepted subjected to major revisions.
+  James, S., E. Pakhomov, B. Johnson, B.P.V. Hunt. 2023. Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada. Mar Ecol Prog Ser 719:93-108. https://doi.org/10.3354/meps14398
+  
+  Diack, D., T. Bird, A. Knight, E. de Eyto, J. Bayer, A. Walker, B.T. Johnson, T. van der Stap, M. Nevoux, C. Bull, N. Hanson, D. Brophy, M. Jones, S. Akenhead. Salmon Data Mobilization. 2023. North Pacific Anadromous Fish Commission Bulletin. Accepted
 
 2022
 
