@@ -25,13 +25,19 @@ Certificate of Technology in Natural Resources
 Professional Experience
 -----------------------
 
-2018-Present 
+2024-Current
+Program Head, Data Stewardship Unit
+    Pacific Region Science Branch,
+    Fisheries and Oceans Canada,
+    Cultus Lake, BC, Canada
+
+2018-2024 
 Scientific Data Specialist
     Hakai Institute/Tula Foundation, 
     Victoria, BC, Canada
 
 2015-2018
-Juvenile Salmon Program Biologist
+Juvenile Salmon Program Lead Biologist
     Hakai Institute/Tula Foundation, 
     Heriot Bay, BC, Canada
 
@@ -78,14 +84,18 @@ Technical Reports
 
   Johnson, B.T., J.C.L. Gan, C.V. Janusson, and B.P.V. Hunt. 2018. Juvenile salmon migration dynamics in the Discovery Islands and Johnstone Strait; 2015–2017. NPAFC Doc. 1790. 10 pp. Hakai Institute, Institute for the Oceans and Fisheries and Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia (Available at http://www.npafc.org)
 
-Software
+Software and Web Services
 --------
+  
+  International Year of the Salmon Data Catalogue. https://data.npafc.org/dataset. Hakai Institute. Victoria, BC, Canada
 
-  Denouden, T., B.T. Johnson. 2021. Hakai Institute API R Client. https://github.com/HakaiInstitute/hakai-api-client-r. Hakai Institute. Quadra Island, BC, Canada
+  International Year of the Salmon Data Portal. https://international-year-of-the-salmon.github.io/about/
 
-  Johnson, B.T. Juvenile Salmon Program Data Explorer. https://hecate.hakai.org/shiny/JSP/. Web application. Quadra Island, BC, Canada
+  Hakai Institute API R Client. https://github.com/HakaiInstitute/hakai-api-client-r. Hakai Institute. Quadra Island, BC, Canada
 
-  Johnson, B.T. `hakaisalmon:` Hakai Institute Juvenile Salmon Program functions, templates, and helpers. R package. https://hakaiinstitute.github.io/hakaiR/. Quadra Island, BC, Canada
+  Juvenile Salmon Program Data Explorer. 2017. Web application (now deprecated). Quadra Island, BC, Canada
+
+  `hakaisalmon:` Hakai Institute Juvenile Salmon Program functions, templates, and helpers. R package. https://hakaiinstitute.github.io/hakaiR/. Quadra Island, BC, Canada
 
 Books
 -----
@@ -129,14 +139,18 @@ Conference Presentations
 
 Working Groups and Committees
 -----------------------------
+2024-Current Research Data Alliance Salmon Research and Monitoring Interest Group
 
-2022-Current
-PICES Study Group: encouraging Data Awareness and increased Transmission and Accessibility (SG-DATA). North Pacific Marine Science Organization (PICES)
+2023-Current
+Co-chair PICES Working Group 52: Established to address the need for an enhanced data, metadata, information management and data sharing plan within the North Pacific Marine Science Organization (PICES).
+
+2022-2023
+PICES Study Group: Encouraging Data Awareness and increased Transmission and Accessibility (SG-DATA). North Pacific Marine Science Organization (PICES)
 
 2020-Current
 PICES-TCODE. Canadian Representative for the North Pacific Marine Science Organization (PICES) Technical Committee on Data Exchange (TCODE)
 
-2019-Current
+2019-2024
 Biological Data Standardization Task Team for the Canadian Integrated Ocean Observing System. Collaboration with Fisheries and Oceans Canada, Ocean Networks Canada, Dalhousie University, Saint Lawrence Gulf Observatory and the Hakai Institute
 
 2019-2022
