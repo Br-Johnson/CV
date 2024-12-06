@@ -83,11 +83,11 @@ Publications
 
 Peer-reviewed Literature
 
-  Johnson, B.T., T. van der Stap. 2023. Data Mobilization Through the International Year of the Salmon Ocean Observing System. North Pacific Anadromous Fish Commission Bulletin. Accepted. Pre-print available at https://doi.org/10.31219/osf.io/83x9a 
+  Johnson, B.T., T. van der Stap. 2024. Data Mobilization Through the International Year of the Salmon Ocean Observing System. North Pacific Anadromous Fish Commission Bulletin 7: 51–60. https://doi.org/10.23849/npafcb7/6a4ddpde4
+
+  Diack, D., T. Bird, A. Knight, E. de Eyto, J. Bayer, A. Walker, B.T. Johnson, T. van der Stap, M. Nevoux, C. Bull, N. Hanson, D. Brophy, M. Jones, S. Akenhead. Salmon Data Mobilization. 2023. North Pacific Anadromous Fish Commission Bulletin 7: 61–76. https://doi.org/10.23849/npafcb7/x3rlpo23a
 
   James, S., E. Pakhomov, B. Johnson, B.P.V. Hunt. 2023. Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada. Mar Ecol Prog Ser 719:93-108. https://doi.org/10.3354/meps14398
-  
-  Diack, D., T. Bird, A. Knight, E. de Eyto, J. Bayer, A. Walker, B.T. Johnson, T. van der Stap, M. Nevoux, C. Bull, N. Hanson, D. Brophy, M. Jones, S. Akenhead. Salmon Data Mobilization. 2023. North Pacific Anadromous Fish Commission Bulletin. Accepted
 
   Diack, G., C. Bull, S.C. Akenhead, T. van der Stap, B.T. Johnson, E. Rivot, R. Patin, P. Hernvann, A. Schubert, T. Bird, M. Saunders, W. Crozier. 2022. Enhancing data mobilisation through a centralised data repository for Atlantic salmon (Salmon salar L): Providing the resources to promote an ecosystem-based management framework. Ecological Informatics 70: 101746. https://doi.org/10.1016/j.ecoinf.2022.101746
 
