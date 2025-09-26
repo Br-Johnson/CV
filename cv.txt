@@ -10,17 +10,17 @@ Education
 2013-2016
 Bachelor of Science. Natural Resource Management - Wildlife and Fisheries
     University of Northern British Columbia,
-    Prince George, BC, Canada
+    Prince George, BC, Canada.
 
 2011-2013
 Diploma of Technology in Renewable Resources
     British Columbia Institute of Technology,
-    Burnaby, BC, Canada
+    Burnaby, BC, Canada.
 
 2010-2011
 Certificate of Technology in Natural Resources
     British Columbia Institute of Technology,
-    Burnaby, BC, Canada
+    Burnaby, BC, Canada.
 
 Courses and Certifications
 ---------------------------------------------------
@@ -52,123 +52,206 @@ April, 2016
 Professional Experience
 -----------------------
 
-2024-Current
-Program Head, Data Stewardship Unit
-    Pacific Region Science Branch,
-    Fisheries and Oceans Canada,
-    Cultus Lake, BC, Canada
+2024 – Current
+Program Head, Data Stewardship Unit, Pacific Region Science Branch, Fisheries and Oceans Canada
+Cultus Lake, BC, Canada
+* Established and lead the Data Stewardship Unit (DSU), overseeing a team of biologists and data professionals delivering salmon data modernization projects.
+* Designed and implemented the STAMP Sample Tracking Platform and Genetics Results Database (GRD), improving data integrity and interoperability across labs and research programs.
+* Spearheaded development of the DFO Salmon Ontology and associated controlled vocabularies, aligning with international standards (Darwin Core, ENVO, OBO Foundry).
+* Coordinated Pacific Salmon Strategy Initiative (PSSI) data deliverables, ensuring alignment with the National Scientific Data Management Policy and FAIR/CARE principles.
+* Implemented DataOps practices using Microsoft Fabric, Synapse, Azure Data Factory, and GitHub to modernize ETL pipelines, database management, and reproducible workflows.
+* Organized and co-led Salmon Data Community of Practice activities, fostering collaboration across Science, Fisheries Management, SEP, and external partners.
+* Contributed technical leadership to Fishery Science Advisory Reports (FSARs) by defining common data models, harmonizing indicators, and building knowledge models for stock assessments.
+* Developed full-stack web applications and APIs for data management systems using modern development frameworks and deployment pipelines
+* Conducted business analysis and requirements gathering to design technical solutions for data modernization initiatives
 
-2018-2024 
-Scientific Data Specialist
-    Hakai Institute/Tula Foundation, 
-    Victoria, BC, Canada
+2018-Present
+Scientific Data Specialist. Hakai Institute/Tula Foundation, Heriot Bay, BC, Canada.
+* Serving as technical lead for the International Year of the Salmon Ocean Observation System in collaboration with the North Pacific Anadromous Fish Commission.
+* Participating in various working groups for the Canadian Integrated Ocean Observing System related to metadata, data management planning and biological data standards.
+* Serving as a Canadian representative on the North Pacific Marine Science Organization's (PICES) Technical Committee on Data Exchange.
+* Providing leadership for the Hakai Data Mobilization team in developing best-practices, standards, and policy.
+* Utilizing R, Python, and SQL to maintain relational databases and extract, assess, transform, analyze, visualize, communicate, and publish data.
+* Developed full-stack web applications and APIs for data visualization and scientific data management
+* Built data processing pipelines for analyzing disparate multi-source structured and unstructured data
+* Created data visualization dashboards and interactive web applications using R Shiny for data exploration and communication
+* Implemented quality control procedures and data validation workflows to ensure data accuracy and completeness
 
 2015-2018
-Juvenile Salmon Program Lead Biologist
-    Hakai Institute/Tula Foundation, 
-    Heriot Bay, BC, Canada
+Juvenile Salmon Program Biologist. Hakai Institute/Tula Foundation, Heriot Bay, BC, Canada.
+* Developed and implemented field and lab methods, protocols and experiments to understand the early marine life history of juvenile salmon.
+* Published peer-reviewed articles, technical reports, and datasets.
+* Managed and supervised laboratory and field teams including the hiring of and supervising of staff, development of budgets, and supervision of lab and field operations.
+* Conducted analyses using multivariate and non-parametric statistics, generalized linear mixed effects models, re-sampling routines, simulations, and power analyses.
+* Conducted comprehensive data analysis using multivariate statistics, generalized linear mixed effects models, and machine learning techniques
+* Developed and implemented data collection protocols and quality assurance procedures for field and laboratory data
+* Managed large datasets including biological, oceanographic, and environmental data from multiple sampling programs
+* Supervised field and laboratory teams, managing budgets and coordinating multi-year research projects
 
 2014-2015
-Research Assistant
-    University of Northern British Columbia,
-    Prince George, BC, Canada
-  
+Research Assistant. University of Northern British Columbia, Prince George, BC, Canada.
+* Conducted field work in remote areas to collect cutthroat trout in rivers and estuary environments using angling and pole-seining techniques to implant acoustic tags and collect tissue for genetic analysis.
+* Identified stream invertebrates from sediment samples and trout stomach contents in the laboratory using a dissecting microscope.
+* Collected invertebrates in alpine ecosystems to assess biodiversity.
+* Conducted polymerase chain reactions on trout tissue in the laboratory.
+
 2008-2013
-Fish, Wildlife, and Forestry Field Technician
-    Watershed Management Division, Metro Vancouver,
-    North Vancouver, BC, Canada
-    
+Fish, Wildlife, and Forestry Field Technician. Lower Seymour Conservation Reserve, Watershed Management Division. Metro Vancouver, North Vancouver, BC, Canada.
+* Sampled out migrating coho and steelhead smolts from the Capilano River and Reservoir using Rotary Screw Traps and Trap Nets to estimate population size using PIT tags and mark recapture techniques.
+* Conducted extensive fish habitat assessments to measure habitat availability and used electrofishing techniques to assess habitat use.
+* Participated in numerous stream and forest management and inventory projects including snorkel surveys, beach seining, invasive plant management and snow-pack surveys.
+
+Areas of Knowledge and Expertise
+----------------------------------------
+
+* Program management, developing budgets, collaboration and partnership development, developing strategic vision, innovation and theory and change, leading high-performance teams.
+
+* Data stewardship, data management theory and best-practices, information systems, open science, data science, workshop instruction.
+
+* Statistical analyses, programming, software development best practices, analytics engineering.
+
+* Full-stack web development, business analysis, requirements gathering, stakeholder management, process mapping, solution architecture design.
+
+* Salmon ecology, Pacific salmon fisheries and stock assessment methods, research, oceanography.
+
+Technical Skills
+----------------
+
+Programming Languages: R (expert), Python (advanced), SQL (advanced), JavaScript (intermediate), HTML/CSS (intermediate)
+
+Data Platforms: Microsoft Fabric, Azure Synapse, Azure Data Factory, PostgreSQL, SQLite, Databricks, Palantir Foundry, Google Cloud Platform
+
+Analytics & Visualization: Power BI, R Shiny, ggplot2, matplotlib, pandas, scikit-learn
+
+Machine Learning: Generalized linear models, mixed-effects models, Bayesian statistics, clustering algorithms, predictive modeling, decision trees & random forest, principal component analysis
+
+Web Development: Full-stack development, API development, modern JavaScript frameworks, responsive design
+
+Business Analysis: Requirements gathering, stakeholder management, process mapping, solution design
+
+Data Standards: Darwin Core, ISO 19115, SKOS, RDF/OWL, FAIR/CARE principles
+
+Development Tools: GitHub, Git, Docker, Quarto, Markdown, API development, LXD, Jenkins
+
 Publications
-------------
+--------------
 
-Peer-reviewed Literature
+Peer-reviewed literature
 
-  Johnson, B.T., T. van der Stap. 2024. Data Mobilization Through the International Year of the Salmon Ocean Observing System. North Pacific Anadromous Fish Commission Bulletin 7: 51–60. https://doi.org/10.23849/npafcb7/6a4ddpde4
+2023
 
-  Diack, D., T. Bird, A. Knight, E. de Eyto, J. Bayer, A. Walker, B.T. Johnson, T. van der Stap, M. Nevoux, C. Bull, N. Hanson, D. Brophy, M. Jones, S. Akenhead. Salmon Data Mobilization. 2023. North Pacific Anadromous Fish Commission Bulletin 7: 61–76. https://doi.org/10.23849/npafcb7/x3rlpo23a
+Johnson, B.T., T. van der Stap. 2024. Data Mobilization Through the International Year of the Salmon Ocean Observing System. North Pacific Anadromous Fish Commission Bulletin 7: 51–60. https://doi.org/10.23849/npafcb7/6a4ddpde4
 
-  James, S., E. Pakhomov, B. Johnson, B.P.V. Hunt. 2023. Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada. Mar Ecol Prog Ser 719:93-108. https://doi.org/10.3354/meps14398
+James, S., E. Pakhomov, B. Johnson, B.P.V. Hunt. 2023. Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada. Mar Ecol Prog Ser 719:93-108. https://doi.org/10.3354/meps14398
 
-  Diack, G., C. Bull, S.C. Akenhead, T. van der Stap, B.T. Johnson, E. Rivot, R. Patin, P. Hernvann, A. Schubert, T. Bird, M. Saunders, W. Crozier. 2022. Enhancing data mobilisation through a centralised data repository for Atlantic salmon (Salmon salar L): Providing the resources to promote an ecosystem-based management framework. Ecological Informatics 70: 101746. https://doi.org/10.1016/j.ecoinf.2022.101746
+Diack, D., T. Bird, A. Knight, E. de Eyto, J. Bayer, A. Walker, B.T. Johnson, T. van der Stap, M. Nevoux, C. Bull, N. Hanson, D. Brophy, M. Jones, S. Akenhead. Salmon Data Mobilization. 2023. North Pacific Anadromous Fish Commission Bulletin 7: 61–76. https://doi.org/10.23849/npafcb7/x3rlpo23a
 
-  Garzke, J., I Forster, S.C. Godwin, B.T. Johnson, M. Krkosek, N. Mahara, E.A. Pakhomov, L.A. Rogers, B.P.V. Hunt. 2022. Dynamic coastal pelagic habitat drives rapid changes in growth and condition of juvenile sockeye salmon Oncorhynchus nerka during early marine migration. FACETS. 7: 1328-1347. https://doi.org/10.1139/facets-2022-0068
+2022
 
-  Brookson, C. B., M. Krkošek, B. P. V. Hunt, B.T. Johnson, L. A. Rogers, and S. C. Godwin. 2020. Differential infestation of juvenile pacific salmon by parasitic sea lice in British Columbia, Canada. Canadian Journal of Fisheries and Aquatic Sciences 77(12):1960–1968   
+Diack, G., C. Bull, S.C. Akenhead, T. van der Stap, B.T. Johnson, E. Rivot, R. Patin, P. Hernvann, A. Schubert, T. Bird, M. Saunders, W. Crozier. 2022. Enhancing data mobilisation through a centralised data repository for Atlantic salmon (Salmon salar L): Providing the resources to promote an ecosystem-based management framework. Ecological Informatics 70: 101746. https://doi.org/10.1016/j.ecoinf.2022.101746.
 
-Technical Reports
+Garzke, J., I Forster, S.C. Godwin, B.T. Johnson, M. Krkosek, N. Mahara, E.A. Pakhomov, L.A. Rogers, B.P.V. Hunt. 2022. Dynamic coastal pelagic habitat drives rapid changes in growth and condition of juvenile sockeye salmon Oncorhynchus nerka during early marine migration. FACETS. 7: 1328-1347. https://doi.org/10.1139/facets-2022-0068.
 
-  Johnson, B.T., K. Bachen, T. van der Stap, B.P.V. Hunt. 2022. Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2021. NPAFC Doc. 2038. 15pp. https://doi.org/10.5281/zenodo.6485627
+2020
 
-  Johnson, B.T., J.C.L. Gan, B.P.V. Hunt. 2021. Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020. NPAFC Doc. 1943. 15 pp.  (Available at https://npafc.org). https://doi.org/10.21966/e5c1-c396
+Brookson, C. B., M. Krkošek, B. P. V. Hunt, B.T. Johnson, L. A. Rogers, and S. C. Godwin. 2020. Differential infestation of juvenile pacific salmon by parasitic sea lice in British Columbia, Canada. Canadian Journal of Fisheries and Aquatic Sciences 77(12):1960–1968
 
-  Irvine, J.R., T. Beacham, C. Freshwater, S.C.H. Grant, S.G. Hinch, C. Holt, B.P.V. Hunt, B. Johnson, M. MacDuffee, V. Minke-Martin, J. Pendray, and J. Reynolds. 2020. 2020 update on Canadian research relevant to the 2016–2020 NPAFC Science Plan. NPAFC Doc. 1912. 14 pp. Fisheries and Oceans Canada, University of British Columbia, Hakai Institute, Raincoast Conservation Foundation, and Simon Fraser University (Available at https://npafc.org)
+Technical reports
 
-  Irvine, J.R., S. Akenhead, T. Beacham, C.M. Deeg, S.C.H. Grant, K.D. Hyatt, C. Holt, B.V.P. Hunt, B.T. Johnson, J. King, K.M. Miller, and C. Neville.  2019.  Update on Canadian research relevant to the 2016–2020 NPAFC Science Plan.  NPAFC Doc. 1841.  6 pp.  Fisheries and Oceans Canada, University of British Columbia, and Hakai Institute  (Available at https://npafc.org)
+2022
+Johnson, B.T., K. Bachen, T. van der Stap, B.P.V. Hunt. 2022. Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2021. NPAFC Doc. 2038. 15pp. https://doi.org/10.5281/zenodo.6485627.
 
-  Johnson, B.T., J.C.L. Gan, S.C. Godwin, M. Krkosek, and B.P.V Hunt. 2019. Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018. NPAFC Doc. 1838. 21 pp. Hakai Institute, Institute for the Oceans and Fisheries and Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Earth to Ocean Research Group, Simon Fraser University, Department of Ecology and Evolutionary Biology, University of Toronto, and Salmon Coast Field Station (Available at https://npafc.org)
+2021
+Johnson, B.T., J.C.L. Gan, B.P.V. Hunt. 2021. Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020. NPAFC Doc. 1943. 15 pp. (Available at https://npafc.org). https://doi.org/10.21966/e5c1-c396.
 
-  Hunt, B.P.V., B.T. Johnson, S.C. Godwin, M. Krkosek, E.A. Pakhomov, and L. Rogers. 2018. The Hakai Institute Juvenile Salmon Program: early life history of sockeye, pink and chum salmon in British Columbia, Canada. NPAFC Doc. 1788. 14 pp. Institute for the Oceans and Fisheries and Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Hakai Institute, Earth to Ocean Research Group, Simon Fraser University, Department of Ecology and Evolutionary Biology, University of Toronto, and Salmon Coast Field Station (Available at http://www.npafc.org)
+2020
+Irvine, J.R., T. Beacham, C. Freshwater, S.C.H. Grant, S.G. Hinch, C. Holt, B.P.V. Hunt, B. Johnson, M. MacDuffee, V. Minke-Martin, J. Pendray, and J. Reynolds. 2020. 2020 update on Canadian research relevant to the 2016–2020 NPAFC Science Plan. NPAFC Doc. 1912. 14 pp. Fisheries and Oceans Canada, University of British Columbia, Hakai Institute, Raincoast Conservation Foundation, and Simon Fraser University (Available at https://npafc.org).
 
-  Johnson, B.T., J.C.L. Gan, C.V. Janusson, and B.P.V. Hunt. 2018. Juvenile salmon migration dynamics in the Discovery Islands and Johnstone Strait; 2015–2017. NPAFC Doc. 1790. 10 pp. Hakai Institute, Institute for the Oceans and Fisheries and Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia (Available at http://www.npafc.org)
+2019
+Irvine, J.R., S. Akenhead, T. Beacham, C.M. Deeg, S.C.H. Grant, K.D. Hyatt, C. Holt, B.V.P. Hunt, B.T. Johnson, J. King, K.M. Miller, and C. Neville. 2019. Update on Canadian research relevant to the 2016–2020 NPAFC Science Plan. NPAFC Doc. 1841. 6 pp. Fisheries and Oceans Canada, University of British Columbia, and Hakai Institute (Available at https://npafc.org).
+
+Johnson, B.T., J.C.L. Gan, S.C. Godwin, M. Krkosek, and B.P.V Hunt. 2019. Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018. NPAFC Doc. 1838. 21 pp. Hakai Institute, Institute for the Oceans and Fisheries and Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Earth to Ocean Research Group, Simon Fraser University, Department of Ecology and Evolutionary Biology, University of Toronto, and Salmon Coast Field Station (Available at https://npafc.org).
+
+2018
+Hunt, B.P.V., B.T. Johnson, S.C. Godwin, M. Krkosek, E.A. Pakhomov, and L. Rogers. 2018. The Hakai Institute Juvenile Salmon Program: early life history of sockeye, pink and chum salmon in British Columbia, Canada. NPAFC Doc. 1788. 14 pp. Institute for the Oceans and Fisheries and Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Hakai Institute, Earth to Ocean Research Group, Simon Fraser University, Department of Ecology and Evolutionary Biology, University of Toronto, and Salmon Coast Field Station (Available at http://www.npafc.org).
+
+Johnson, B.T., J.C.L. Gan, C.V. Janusson, and B.P.V. Hunt. 2018. Juvenile salmon migration dynamics in the Discovery Islands and Johnstone Strait; 2015–2017. NPAFC Doc. 1790. 10 pp. Hakai Institute, Institute for the Oceans and Fisheries and Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia (Available at http://www.npafc.org).
 
 Software and Web Services
---------
+----------
+DFO Salmon Ontology & Controlled Vocabularies – https://github.com/dfo-pacific-science/dfo-salmon-ontology GitHub-hosted semantic standards with SKOS/OWL formats and w3id URIs, supporting FSAR data integration.
+
+Genetics Results Database (GRD) – Internal DFO Access Only. Centralized system for GSI/PBT results integrated with Molecular Genetics Lab outputs.
+
+Salmon Data Stewardship Unit Quarto Website – https://dfo-pacific-science.github.io/data-stewardship-unit/ – public site hosting vocabularies, training materials, and data standards.
   
-  International Year of the Salmon Data Catalogue. https://data.npafc.org/dataset. Hakai Institute. Victoria, BC, Canada
+International Year of the Salmon Data Catalogue. https://data.npafc.org/dataset. Hakai Institute. Victoria, BC, Canada
 
-  International Year of the Salmon Data Portal. https://international-year-of-the-salmon.github.io/about/
+International Year of the Salmon Data Portal. https://international-year-of-the-salmon.github.io/about/
 
-  Hakai Institute API R Client. https://github.com/HakaiInstitute/hakai-api-client-r. Hakai Institute. Quadra Island, BC, Canada
+Hakai Institute API R Client. https://github.com/HakaiInstitute/hakai-api-client-r. Hakai Institute. Quadra Island, BC, Canada
 
-  Juvenile Salmon Program Data Explorer. 2017. Web application (now deprecated). Quadra Island, BC, Canada
+Juvenile Salmon Program Data Explorer. 2017. Web application (now deprecated). Quadra Island, BC, Canada
 
-  `hakaisalmon:` Hakai Institute Juvenile Salmon Program functions, templates, and helpers. R package. https://hakaiinstitute.github.io/hakaiR/. Quadra Island, BC, Canada
+`hakaisalmon:` Hakai Institute Juvenile Salmon Program functions, templates, and helpers. R package. https://hakaiinstitute.github.io/hakaiR/. Quadra Island, BC, Canada
 
 Books
------
+-------
 
-  Johnson, B.T., M. Biddle, B. Best, A. Benson, Z. Montieth. 2020. Standardizing Marine Biological Data. https://ioos.github.io/bio_data_guide/intro.html. Quadra Island, BC, Canada
+2020
+Johnson, B.T., M. Biddle, B. Best, A. Benson, Z. Montieth. 2020. Standardizing Marine Biological Data. https://ioos.github.io/bio_data_guide/intro.html. Quadra Island, BC, Canada.
 
-  Johnson, B.T. 2017. Hakai Institute R Stats Guide for Reproducible Analyses. https://hecate.hakai.org/rguide/. Quadra Island, BC, Canada
+2017
+Johnson, B.T. 2017. Hakai Institute R Stats Guide for Reproducible Analyses. https://hecate.hakai.org/rguide/. Quadra Island, BC, Canada.
 
-Conference Presentations
-------------------------
+Conference presentations
+-----------------------------
 
-  Johnson, B.T., T. van der Stap. 2023. International Year of the Salmon Data Mobilization. Poster presentation at the PICES 2023 Annual Meeting. Seaatle, USA. October 24-26, 2023. https://doi.org/10.5281/zenodo.10042430
+2023
+Johnson, B.T., T. van der Stap. 2023. International Year of the Salmon Data Mobilization. Poster presentation at the PICES 2023 Annual Meeting. Seattle, USA. October 24-26, 2023. https://doi.org/10.5281/zenodo.10042430
 
-  Johnson, B.T., T. van der Stap. 2022. International Year of the Salmon Data Mobilization. Oral presentation at the International Year of the Salmon 2022 Expedition Results Meeting. Vancouver, BC. October 2-3, 2022. https://doi.org/10.5281/zenodo.7613258
+2022
+Johnson, B.T., T. van der Stap. 2022. International Year of the Salmon Data Mobilization. Oral presentation at the International Year of the Salmon 2022 Expedition Results Meeting. Vancouver, BC. October 2-3, 2022. https://doi.org/10.5281/zenodo.7613258.
 
-  Johnson, B.T., K. Bachen, T. van der Stap, B. Hunt. Mobilizing Essential Salmon Ocean Ecology Variables. Oral presentation at the American Fisheries Society 152nd Annual Meeting. Spokane, Washington. August 21-25, 2022. https://doi.org/10.5281/zenodo.7613222
+Johnson, B.T., K. Bachen, T. van der Stap, B. Hunt. Mobilizing Essential Salmon Ocean Ecology Variables. Oral presentation at the American Fisheries Society 152nd Annual Meeting. Spokane, Washington. August 21-25, 2022. https://doi.org/10.5281/zenodo.7613222.
 
-  Johnson, B.T., R. Brunsting, B. Hunt, E. Peterson. 2021. Mobilizing essential salmon biodiversity variables collected by the Hakai Institute Juvenile Salmon Program via the Canadian Integrated Ocean Observing System. Oral presentation at the 2021 PICES Annual Meeting: "Towards a shared vision of sustainable marine ecosystems". Virtual October 19, 2021. https://doi.org/10.5281/zenodo.7613134
+2021
+Johnson, B.T., R. Brunsting, B. Hunt, E. Peterson. 2021. Mobilizing essential salmon biodiversity variables collected by the Hakai Institute Juvenile Salmon Program via the Canadian Integrated Ocean Observing System. Oral presentation at the 2021 PICES Annual Meeting: "Towards a shared vision of sustainable marine ecosystems". Virtual October 19, 2021. https://doi.org/10.5281/zenodo.7613134.
 
-  Johnson, B.T., T. van der Stap, R. Brunsting, E. Peterson. 2021. Global Ocean Observation System and Essential Salmon Ocean Ecology Variables. Oral presentation at the Third North Pacific Anadromous Fish Commission International Year of the Salmon Virtual Workshop on the Linkages between Pacific Salmon Production and Environmental Changes. Virtual May 25-27, 2021. https://doi.org/10.5281/zenodo.7613080
+Johnson, B.T., T. van der Stap, R. Brunsting, E. Peterson. 2021. Global Ocean Observation System and Essential Salmon Ocean Ecology Variables. Oral presentation at the Third North Pacific Anadromous Fish Commission International Year of the Salmon Virtual Workshop on the Linkages between Pacific Salmon Production and Environmental Changes. Virtual May 25-27, 2021. https://doi.org/10.5281/zenodo.7613080.
 
-  Johnson, B.T., R Brunsting, B.P.V Hunt, M. Saunders, E. Peterson. 2020. The Global Ocean Observation System and Essential Salmon Ocean Ecology Variables. Oral presentation at the Salmon Ocean Ecology Meeting at Stanford's John Hopkins Marine Research Laboratory. Monterrey Bay, CA, USA
+2020
+Johnson, B.T., R Brunsting, B.P.V Hunt, M. Saunders, E. Peterson. 2020. The Global Ocean Observation System and Essential Salmon Ocean Ecology Variables. Oral presentation at the Salmon Ocean Ecology Meeting at Stanford's John Hopkins Marine Research Laboratory. Monterrey Bay, CA, USA.
 
-  Johnson, B.T., J.C.L. Gan, C.V. Janusson, B.P.V. Hunt. Hakai Institute Juvenile Salmon Program Time Series Poster. Poster presentation at the Salmon Ocean Ecology Meeting/North Pacific Anadromous Fish Commission Meeting. Portland Oregon, 2019
+2019
+Johnson, B.T., J.C.L. Gan, C.V. Janusson, B.P.V. Hunt. Hakai Institute Juvenile Salmon Program Time Series Poster. Poster presentation at the Salmon Ocean Ecology Meeting/North Pacific Anadromous Fish Commission Meeting. Portland Oregon, 2019.
 
-  Johnson, B.T., J.C.L. Gan, C.V. Janusson, B.P.V. Hunt. Hakai Institute Juvenile Salmon Program 2015-2018 Time Series Poster. Poster presentation at Fisheries and Oceans Canada State of the Pacific Ocean meeting. Nanaimo, BC, Canada
+Johnson, B.T., J.C.L. Gan, C.V. Janusson, B.P.V. Hunt. Hakai Institute Juvenile Salmon Program 2015-2018 Time Series Poster. Poster presentation at Fisheries and Oceans Canada State of the Pacific Ocean meeting. Nanaimo, BC, Canada.
 
-  Johnson, B.T. 2018. Hakai Institute Juvenile Salmon Program Overview. Oral presentation at the Pint of Salmon Science community event held at the Riptide Pub, Campbell River, BC, Canada
+2018
+Johnson, B.T. 2018. Hakai Institute Juvenile Salmon Program Overview. Oral presentation at the Pint of Salmon Science community event held at the Riptide Pub, Campbell River, BC, Canada.
 
-  Johnson, B.T., J. Jackson, B.P.V. Hunt., A. Hare, W. Evans. Quadra Island Ecological Observatory; Ocean Conditions, Juvenile Salmon Migrations, and Data Management. Oral presentation at the BCSFA Research Priorities Workshop, Courtenay, B.C.
+Johnson, B.T., J. Jackson, B.P.V. Hunt., A. Hare, W. Evans. Quadra Island Ecological Observatory; Ocean Conditions, Juvenile Salmon Migrations, and Data Management. Oral presentation at the BCSFA Research Priorities Workshop, Courtenay, B.C..
 
-  Johnson, B.T., C. Neville, B.P.V. Hunt. 2018. Fine scale migration dynamics of juvenile sockeye in the Discovery Islands, B.C. Oral presentation at the Salmon Ocean Ecology Meeting. Newport, Oregon
+Johnson, B.T., C. Neville, B.P.V. Hunt. 2018. Fine scale migration dynamics of juvenile sockeye in the Discovery Islands, B.C. Oral presentation at the Salmon Ocean Ecology Meeting. Newport, Oregon.
 
-  Johnson, B.T., J.C.L. Gan, C.V. Janusson, B.P.V. Hunt. 2017. Hakai Institute Juvenile Salmon Program 2015-2017 Time Series Poster. Poster presentation at the Pacific Salmon Foundation Salish Sea Marine Survival Project juvenile salmon work group. Nanaimo, BC, Canada
+2017
+Johnson, B.T., J.C.L. Gan, C.V. Janusson, B.P.V. Hunt. 2017. Hakai Institute Juvenile Salmon Program 2015-2017 Time Series Poster. Poster presentation at the Pacific Salmon Foundation Salish Sea Marine Survival Project juvenile salmon work group. Nanaimo, BC, Canada.
 
-  Johnson, B.T., J.C.L. Gan, C.V. Janusson, B.P.V. Hunt. 2017. Hakai Institute Juvenile Salmon Program 2015-2016 Time Series Poster. Poster presentation at Fisheries and Oceans Canada State of the Pacific Ocean meeting. Sidney, BC, Canada
+Johnson, B.T., J.C.L. Gan, C.V. Janusson, B.P.V. Hunt. 2017. Hakai Institute Juvenile Salmon Program 2015-2016 Time Series Poster. Poster presentation at Fisheries and Oceans Canada State of the Pacific Ocean meeting. Sidney, BC, Canada.
 
-  Johnson, B.T. 2016. Hakai Institute Juvenile Salmon Program highlights 2015-2016. Hakai Institute Research Exchange. Nanaimo, BC, Canada
+2016
+Johnson, B.T. 2016. Hakai Institute Juvenile Salmon Program highlights 2015-2016. Hakai Institute Research Exchange. Nanaimo, BC, Canada.
 
-  Hunt, B.P.V., B.T. Johnson. Juvenile Salmon Program review; ocean conditions and fish condition analysis. Pacific Salmon Foundation Salish Sea Marine Survival Project Canadian meeting. Nanaimo, BC, Canada
+Hunt, B.P.V., B.T. Johnson. Juvenile Salmon Program review; ocean conditions and fish condition analysis. Pacific Salmon Foundation Salish Sea Marine Survival Project Canadian meeting. Nanaimo, BC, Canada.
 
 Working Groups and Committees
------------------------------
-2024-Current PICES Advisory Panel: United Nations Decade of Ocean Science https://meetings.pices.int/members/advisory-panels/AP-UNDOS
+--------------------------------------
+2025-Current Co-chair of the Research Data Alliance Salmon Ontology Development Working Group.
 
 2024-Current Research Data Alliance Salmon Research and Monitoring Interest Group https://www.rd-alliance.org/groups/salmon-research-and-monitoring-ig/
+
+2024-Current PICES Advisory Panel: United Nations Decade of Ocean Science https://meetings.pices.int/members/advisory-panels/AP-UNDOS
 
 2023-Current
 Co-chair PICES Working Group 52 - Data Management: Established to address the need for an enhanced data, metadata, information management and data sharing plan within the North Pacific Marine Science Organization (PICES).
@@ -194,16 +277,21 @@ Metadata Profile Task Team for the Canadian Integrated Ocean Observing System. C
 2019-2021
 Data Management Policy Task Team for the Canadian Integrated Ocean Observing System. Collaboration with Fisheries and Oceans Canada, Ocean Networks Canada, Dalhousie University, Saint Lawrence Gulf Observatory and the Hakai Institute
 
+2019-2020
+Biological Data Standardization Task Team for the Canadian Integrated Ocean Observing System. Collaboration with Fisheries and Oceans Canada, Ocean Networks Canada, Dalhousie University, Saint Lawrence Gulf Observatory and the Hakai Institute.
+
 Professional Memberships
 ------------------------
 
-March 2021-Current
+2021-2024
 Registered Professional Biologist.
     British Columbia College of Applied Biology. Registration No. 3719
 
 Professional Content
 -------------------
 
-GitHub: https://github.com/Br-Johnson
-Blog: https://br-johnson.github.io/ 
+Links:
 
+GitHub: https://github.com/Br-Johnson
+Blog: https://br-johnson.github.io/
+ORCID: https://orcid.org/0000-0001-9317-0364
